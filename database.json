@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "123",
+      "subscription_end": "2026-12-31",
+      "hwid": "TEST-HWID-123"
+    },
+    {
+      "username": "user1",
+      "password": "password",
+      "subscription_end": "2024-06-01",
+      "hwid": "ANY"
+    }
+  ],
+  "products": [
+    {
+      "name": "CS2 External",
+      "version": "1.0.2",
+      "status": "Undetected",
+      "enabled": true,
+      "download_url": "https://example.com/cs2.exe"
+    }
+  ]
+}
